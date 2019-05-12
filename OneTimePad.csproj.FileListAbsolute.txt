@@ -1,9 +1,0 @@
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\bin\Debug\OneTimePad.exe.config
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\bin\Debug\OneTimePad.exe
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\bin\Debug\OneTimePad.pdb
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\obj\Debug\OneTimePad.Form1.resources
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\obj\Debug\OneTimePad.Properties.Resources.resources
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\obj\Debug\OneTimePad.csproj.GenerateResource.Cache
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\obj\Debug\OneTimePad.exe
-c:\users\nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\obj\Debug\OneTimePad.pdb
-C:\Users\Nori\documents\visual studio 2017\Projects\SiguriaTeDhenave2018\OneTimePad\obj\Debug\OneTimePad.csprojResolveAssemblyReference.cache
